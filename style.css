@@ -1,0 +1,28 @@
+.topsection {
+    font-family: roboto;
+    background-color: #1F2937;
+}
+
+.topsection .heromain {
+    font-size: 48px; 
+    color: #F9FAF8;
+    font-weight: 900;
+}
+
+.header {
+    display: flex;
+    justify-content: space-around;
+}
+
+.header h1 {
+    font-size: 24px;
+    color: #F9FAF8;
+}
+
+.header ul {
+    font-size: 18px;
+    color: #E5E7EB;
+    list-style-type: none;
+    display: flex;
+    gap: 16px;
+}
