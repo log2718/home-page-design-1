@@ -54,7 +54,7 @@
 }
 
 button {
-    background-color: rgb(60, 154, 255);
+    background-color: #3882F6;
     width: 120px;
     height: 40px;
     border-radius: 16px;
@@ -100,3 +100,30 @@ button {
     justify-content: right;
 }
 
+.signup {
+    background-color: #3882F6;
+    margin: 48px 120px;
+    padding: 48px;
+    display: flex;
+    justify-content: space-around;
+    border-radius: 16px;
+    font-size: 18px;
+    color: #F9FAF8;
+}
+
+.leftsignup p {
+    color: #E5E7EB;
+}
+
+.buttonbottom {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+.signup button {
+    border-color: white;
+    border-style: solid;
+    width: 180px;
+    height: 56px;
+}
